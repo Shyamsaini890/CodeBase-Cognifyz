@@ -1,0 +1,45 @@
+.dash-section {
+  display: flex;
+  justify-content: center;
+  width: 85%;
+}
+.search-bar {
+  width: 500px;
+  height: 40px;
+  border: none;
+  box-shadow: 0px 0px 8px 5px rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+.pythan-dash {
+  width: 500px;
+  height: 100px;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
+  margin-top: 35px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.node-dash {
+  width: 500px;
+  height: 100px;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
+  margin-top: 35px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.flutter-dash {
+  width: 500px;
+  height: 100px;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
+  margin-top: 35px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.images {
+  width: 100px;
+}

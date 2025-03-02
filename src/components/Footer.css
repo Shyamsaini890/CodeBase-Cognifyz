@@ -1,0 +1,35 @@
+.footer {
+  width: 100%;
+  height: 400px;
+  border: 2px solid black;
+  background-color: #08192b;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 100px;
+  position: relative;
+  bottom: 0;
+}
+.first-footer {
+  width: 25%;
+}
+.sec-footer {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+}
+.third-footer {
+  width: 25%;
+}
+.footer-end {
+  width: 100%;
+  height: 50px;
+  background-color: #0e2a47;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  bottom: 0;
+}
